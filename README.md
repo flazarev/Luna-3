@@ -33,4 +33,4 @@ https://drive.google.com/drive/folders/1kOk9sdnPzQwm2wHqB02K6iMmTarSw0lR?usp=sha
 ### Ссылка на видеоотчет на YouTube
 https://youtu.be/ujC64N0iquE
 ### Ссылка на оригинал отчета
-https://docs.google.com/document/d/1R56VAGCk-edWF-5Didc3PFFV680DeAQncD8pWiYtjAw/edit
+https://docs.google.com/document/d/13B3MBwqt_CLX_sbqK-GCMcduQCFx3C4IFkEeVbvylJk/edit?usp=sharing
