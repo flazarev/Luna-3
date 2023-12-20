@@ -99,7 +99,7 @@ formatter.set_scientific(False)
 ax.yaxis.set_major_formatter(formatter)
 ax.xaxis.set_major_formatter(formatter)
 fig.tight_layout()
-plt.savefig("графики_ksp/график_плотности_воздуха_от_времени.png")
+plt.savefig("графики_ksp/график_плотности_воздуха_от_высоты.png")
 
 fig, ax = plt.subplots(figsize=(11, 8))  # график силы тяги двигателей от высоты
 plt.plot(time, thrust_of_force, color='lime', linewidth=4)
