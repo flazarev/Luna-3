@@ -40,9 +40,7 @@ stage_engine_duration = [65, 111, 89]  # время работы двигате�
 start_mass_on_every_stage = [  # масса ракеты в начале каждой ступени
     initial_mass,
     initial_mass - (mass_of_side_engine + mass_of_side_tank_full) * 4 - 25000,
-    initial_mass - (mass_of_side_engine + mass_of_side_tank_full) * 4 - (
-            mass_of_central_engine + mass_of_central_bottom_tank_full + mass_of_central_top_1_tank_full +
-            mass_of_central_top_2_tank_full + mass_of_central_top_3_tank_full),
+    initial_mass - (mass_of_side_engine + mass_of_side_tank_full) * 4 - 25000 - 26000,
     initial_mass - (mass_of_side_engine + mass_of_side_tank_full) * 4 - (
             mass_of_central_engine + mass_of_central_bottom_tank_full + mass_of_central_top_1_tank_full +
             mass_of_central_top_2_tank_full + mass_of_central_top_3_tank_full) - (
@@ -51,11 +49,13 @@ start_mass_on_every_stage = [  # масса ракеты в начале каж�
 
 end_mass_on_every_stage = [  # масса ракеты в конце каждой ступени
     start_mass_on_every_stage[0] - (mass_of_side_tank_full - mass_of_side_tank_empty) * 4 - 25000,
-    start_mass_on_every_stage[1] - (mass_of_central_top_1_tank_full - mass_of_central_top_1_tank_empty) - (
-        mass_of_central_top_2_tank_full - mass_of_central_top_2_tank_empty) - (
-        mass_of_central_top_3_tank_full - mass_of_central_top_3_tank_empty) - (
-        mass_of_central_bottom_tank_full - mass_of_central_bottom_tank_empty),
-    start_mass_on_every_stage[2] - (mass_of_maneuverable_tank_full - mass_of_maneuverable_tank_empty),
+    start_mass_on_every_stage[1] - (mass_of_side_tank_full - mass_of_side_tank_empty) * 4 - 25000 - 26000,
+    start_mass_on_every_stage[2] - (mass_of_central_top_1_tank_empty -
+                                    mass_of_central_top_2_tank_empty -
+                                    mass_of_central_top_3_tank_empty -
+                                    mass_of_central_bottom_tank_empty -
+                                    mass_of_maneuverable_tank_full -
+                                    mass_of_maneuverable_tank_empty),
     start_mass_on_every_stage[3]]
 
 
@@ -73,7 +73,7 @@ fuel_consumption_coefficient_values = [
                                  mass_of_central_top_1_tank_empty + mass_of_central_top_2_tank_empty +
                                  mass_of_central_top_3_tank_empty + mass_of_central_bottom_tank_empty,
                                  stage_engine_duration[1]),
-    fuel_consumption_coefficient(mass_of_maneuverable_tank_full + 2000,
+    fuel_consumption_coefficient(mass_of_maneuverable_tank_full + 6000,
                                  mass_of_maneuverable_tank_full,
                                  stage_engine_duration[2]),
     0]
