@@ -11,15 +11,15 @@ if not os.path.isdir("графики_ksp"):  # папка для хранени�
 # Вытаскиваем расчеты
 time = np.array(time_array)
 height = np.array(height_array)
-mass = np.array(mass_of_rocket_array)
 velocity = np.array(velocity_scalar_array)
-acceleration = np.array(acceleration_array)
-angle = np.array(angel_array)
-pressure = np.array(pressure_array)
-ro = np.array(ro_array)
-position = np.array(position_array)
 force_of_gravity = np.array(force_of_gravity_array)
+acceleration = np.array(acceleration_array)
+mass = np.array(mass_of_rocket_array)
+pressure = np.array(pressure_array)
+position = np.array(position_array)
 thrust_of_force = np.array(force_of_thrust_array)
+ro = np.array(ro_array)
+angle = np.array(angel_array)
 
 # Построение графиков
 fig, ax = plt.subplots(figsize=(11, 8))  # график скорости от времени
