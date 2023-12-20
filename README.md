@@ -14,7 +14,7 @@
 ## Программы
 Программы для графиков были написаны на языке Python с использованием библиотек math, os, matplotlib, numpy, kRPC
 
-* Программа для [расчетов]()
-* Программа для вывода [графиков на основе расчетов]()
-* Программа для вывода [графиков на основе симуляции с помощью kRPC]()
+* Программа для [расчетов](https://github.com/flazarev/Luna-3/blob/main/Programs/ksp_computing.py)
+* Программа для вывода [графиков на основе расчетов](https://github.com/flazarev/Luna-3/blob/main/Programs/ksp_graphics.py)
+* Программа для вывода [графиков на основе симуляции с помощью kRPC](https://github.com/flazarev/Luna-3/blob/main/Programs/kRPC_graphics.py)
 
