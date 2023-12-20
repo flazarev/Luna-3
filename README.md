@@ -13,7 +13,7 @@
 
 ## Графики
 ### Сравнение графиков математической модели (слева) и графиков kRPC (справа)
-<img src="https://i.ibb.co/HNrdmvj/photo-5192770513934605185-y.jpg" width="350" height="280"> <img src="https://i.ibb.co/7Jh0gSL/photo-5192770513934604856-y.jpg" width="350" height="280">
+<img src="https://i.ibb.co/HNrdmvj/photo-5192770513934605185-y.jpg" width="380" height="300"> <img src="https://i.ibb.co/7Jh0gSL/photo-5192770513934604856-y.jpg" width="380" height="300">
 <img src="https://i.ibb.co/9s75mnF/photo-5192770513934605187-y.jpg" width="500" height="380"> <img src="https://i.ibb.co/mXjP7hG/photo-5192770513934605169-y.jpg" width="500" height="380">
 <img src="https://i.ibb.co/5Fc4mFh/photo-5192770513934605188-y.jpg" width="500" height="380"> <img src="https://i.ibb.co/sJmPy4T/photo-5192770513934605166-y.jpg" width="500" height="380">
 <img src="https://i.ibb.co/hfYyGMc/photo-5192770513934605177-y.jpg" width="500" height="380"> <img src="https://i.ibb.co/km4S16h/photo-5192770513934605167-y.jpg" width="500" height="380">
