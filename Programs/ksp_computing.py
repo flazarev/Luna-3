@@ -220,7 +220,7 @@ for t in range(total_time):
     position_array.append((position_array[t][0] + velocity_array[t][0],
                            position_array[t][1] + velocity_array[t][1]))
 
-    height_array.append((length_of_vector(position_array[t]) - radius_of_kerbin) / 1.55)
+    height_array.append((length_of_vector(position_array[t]) - radius_of_kerbin) / 1.40)
 
     angel_array.append(angle(height_array[t]))
 
