@@ -9,7 +9,7 @@
 ![](https://i.ibb.co/Rjvyd6K/vostok.png)
 ![](https://i.ibb.co/3Yp1V6b/Luna-3.png)
 
-Файл с моделью ракеты
+Файл с моделью [ракеты](https://github.com/flazarev/Luna-3/blob/main/Programs/Luna-3.craft)
 
 ## Графики
 ### Сравнение графиков математической модели (слева) и графиков kRPC (справа)
