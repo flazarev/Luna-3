@@ -12,15 +12,13 @@
 Файл с моделью [ракеты](https://github.com/flazarev/Luna-3/blob/main/Programs/Luna-3.craft)
 
 ## Графики
-### Сравнение графиков математической модели (слева) и графиков kRPC (справа)
-<img src="https://i.ibb.co/HNrdmvj/photo-5192770513934605185-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/7Jh0gSL/photo-5192770513934604856-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/9s75mnF/photo-5192770513934605187-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/mXjP7hG/photo-5192770513934605169-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/5Fc4mFh/photo-5192770513934605188-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/sJmPy4T/photo-5192770513934605166-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/hfYyGMc/photo-5192770513934605177-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/km4S16h/photo-5192770513934605167-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/gRQ84Rr/photo-5192770513934605181-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/Y3mT7Fh/photo-5192770513934605165-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/Dt2K3QS/photo-5192770513934605183-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/VMqmhDq/photo-5192770513934605168-y.jpg" width="410" height="320">
-<img src="https://i.ibb.co/j49v8Vx/photo-5192770513934605176-y.jpg" width="410" height="320"> <img src="https://i.ibb.co/LNHKDC9/photo-5192770513934605164-y.jpg" width="410" height="320">
-
+![](https://i.imgur.com/LJ5kv85.jpg)
+![](https://i.imgur.com/h6PDndG.jpg)
+![](https://i.imgur.com/ARETY5C.jpg)
+![](https://i.imgur.com/orlhIOx.jpg)
+![](https://i.imgur.com/47aSWe5.jpg)
+![](https://i.imgur.com/zJulkIl.jpg)
+![](https://i.imgur.com/E9xumqX.jpg)
 ## Программы
 Программы для графиков были написаны на языке Python с использованием библиотек math, os, matplotlib, numpy, kRPC
 
@@ -33,4 +31,4 @@ https://drive.google.com/drive/folders/1kOk9sdnPzQwm2wHqB02K6iMmTarSw0lR?usp=sha
 ### Ссылка на видеоотчет на YouTube
 https://youtu.be/ujC64N0iquE
 ### Ссылка на оригинал отчета
-https://docs.google.com/document/d/13B3MBwqt_CLX_sbqK-GCMcduQCFx3C4IFkEeVbvylJk/edit?usp=sharing
+https://docs.google.com/document/d/1kREmu3c7ps8zkSc_5iwNaArqYiRZyrC7G6Skgxgt0_o/edit#heading=h.1pxezwc
